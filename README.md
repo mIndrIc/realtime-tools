@@ -1,10 +1,9 @@
-🌍 Real-Time Data Tools – Curated by MINDRIC.LAB
-> A curated list of 39 tools that show live, real-time data about our world — from cyberattacks and wildfires to satellites and ocean currents.
-Live Demo: deinUsername.github.io/realtime-tools  
-Website: www.mindriclab.de
+🌍 Real-Time Data Tools
+39 tools that show live, real-time data about our world.
+From cyberattacks and wildfires to satellites and ocean currents — all links clickable, no frameworks, pure HTML.
+🌐 www.mindriclab.de — Curated by MINDRIC.LAB
 ---
-📡 What is this?
-This is a single-page HTML resource listing 39 real-time monitoring tools across categories like:
+📡 Categories
 ☢️ Radiation & Nuclear
 ⚡ Lightning & Weather
 🛰️ Satellites & Space
@@ -13,18 +12,17 @@ This is a single-page HTML resource listing 39 real-time monitoring tools across
 🌊 Ocean & Environment
 🌋 Disasters & Emergencies
 🌿 Air Quality & Forests
-All links are clickable and open directly in the browser — no frameworks, no dependencies, pure HTML.
 ---
 🚀 Usage
-Simply open `index.html` in any browser — or visit the live GitHub Pages link above.
-No installation required. No JavaScript frameworks. No tracking.
+Open `index.html` in any browser — or visit the live GitHub Pages link.
+No installation. No JavaScript frameworks. No tracking.
 ---
 🛠️ Tech Stack
-Pure HTML5 + CSS3
+HTML5 + CSS3
 Google Fonts (Barlow, Rajdhani)
 Zero dependencies
 ---
-📋 Tools Included
+🔗 Tools Included
 Tool	Category
 Safecast	Radiation
 NETC	Radiation
@@ -36,7 +34,7 @@ Whale Alert	Crypto
 Kaspersky Cybermap	Cyber Security
 NETSCOUT Horizon	Cyber Security
 Global Threat Map	Cyber Security
-NOAA Earth Real-Time	Weather / Satellite
+NOAA Earth Real-Time	Weather
 NASA FIRMS	Wildfires
 VolcanoDiscovery	Volcanoes
 RSOE EDIS	Disasters
@@ -67,10 +65,8 @@ Global Incident Map	Security
 Earthquake3D	Seismic
 ---
 👤 About MINDRIC.LAB
-MINDRIC.LAB – Software Made in Germany.  
-Premium Desktop-Tools und immersive Web-Erlebnisse.  
-Präzisionstechnik trifft auf digitale Kunst.
+MINDRIC.LAB — Software Made in Germany.
+Premium Desktop-Tools und immersive Web-Erlebnisse.
 🌐 www.mindriclab.de
 ---
-📄 License
-Free to use and share. If you find this useful, a link back to mindriclab.de is appreciated. ✌️
+Free to use. A link back to mindriclab.de is appreciated.
